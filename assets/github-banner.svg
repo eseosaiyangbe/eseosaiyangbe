@@ -1,0 +1,80 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Eseosa Raymond Iyangbe — Cloud and DevOps Engineering</title>
+  <desc id="desc">Dark professional GitHub profile banner for cloud, DevOps, Kubernetes, GitOps, observability, and secure infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050913"/>
+      <stop offset="0.52" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#02040A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="0" x2="1320" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1120 210) rotate(90) scale(310 430)">
+      <stop stop-color="#2563EB" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#02040A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-60" y="-60" width="1720" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#1E3A8A" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <rect width="1600" height="520" fill="url(#grid)" opacity="0.48"/>
+  <rect width="1600" height="520" fill="url(#glow)"/>
+
+  <g opacity="0.48" stroke="#38BDF8" stroke-width="1.5">
+    <path d="M72 90 L170 38 L298 78 L406 36 L545 86"/>
+    <circle cx="72" cy="90" r="4" fill="#38BDF8"/><circle cx="170" cy="38" r="4" fill="#38BDF8"/><circle cx="298" cy="78" r="4" fill="#38BDF8"/><circle cx="406" cy="36" r="4" fill="#38BDF8"/><circle cx="545" cy="86" r="4" fill="#38BDF8"/>
+    <path d="M1240 78 L1320 38 L1430 74 L1528 42"/>
+    <circle cx="1240" cy="78" r="4" fill="#38BDF8"/><circle cx="1320" cy="38" r="4" fill="#38BDF8"/><circle cx="1430" cy="74" r="4" fill="#38BDF8"/><circle cx="1528" cy="42" r="4" fill="#38BDF8"/>
+  </g>
+
+  <g opacity="0.28" stroke="#60A5FA" stroke-width="2">
+    <path d="M126 386 h70 l35 60 -35 60 h-70 l-35-60 35-60z"/>
+    <path d="M1442 332 h78 l39 68 -39 68 h-78 l-39-68 39-68z"/>
+    <path d="M1362 132 h60 l30 52 -30 52 h-60 l-30-52 30-52z"/>
+  </g>
+
+  <g transform="translate(88 128)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-1.6">Eseosa Raymond Iyangbe</text>
+    <rect x="2" y="38" width="760" height="5" rx="2.5" fill="url(#accent)" filter="url(#softGlow)"/>
+    <text x="0" y="92" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="650">Cloud &amp; Platform Engineering | DevOps | Kubernetes | GitOps | Observability</text>
+    <text x="0" y="142" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">AWS • Azure • Docker • Terraform • Vault • Prometheus • Grafana • Linux</text>
+  </g>
+
+  <g transform="translate(82 352)" font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(0,0)"><circle cx="38" cy="28" r="24" stroke="#22D3EE" stroke-width="4"/><path d="M16 34c2-12 13-18 23-14 5-12 23-11 27 3 12 0 19 9 16 21H16z" stroke="#22D3EE" stroke-width="4"/><text x="38" y="92" fill="#CBD5E1" font-size="15">CLOUD</text></g>
+    <g transform="translate(144,0)"><rect x="12" y="22" width="64" height="36" rx="8" stroke="#38BDF8" stroke-width="4"/><rect x="24" y="10" width="16" height="12" fill="#38BDF8"/><rect x="44" y="10" width="16" height="12" fill="#38BDF8"/><text x="44" y="92" fill="#CBD5E1" font-size="15">CONTAINERS</text></g>
+    <g transform="translate(314,0)"><polygon points="42,4 78,25 78,66 42,88 6,66 6,25" fill="#1D4ED8" stroke="#60A5FA" stroke-width="3"/><circle cx="42" cy="46" r="18" stroke="#F8FAFC" stroke-width="4"/><path d="M42 22v48M18 46h48M29 33l26 26M55 33L29 59" stroke="#F8FAFC" stroke-width="3"/><text x="42" y="112" fill="#CBD5E1" font-size="15">KUBERNETES</text></g>
+    <g transform="translate(480,0)"><path d="M20 20v48M20 42h34" stroke="#A855F7" stroke-width="5" stroke-linecap="round"/><circle cx="20" cy="20" r="9" fill="#A855F7"/><circle cx="20" cy="68" r="9" fill="#A855F7"/><circle cx="62" cy="42" r="9" fill="#A855F7"/><text x="42" y="112" fill="#CBD5E1" font-size="15">GITOPS</text></g>
+    <g transform="translate(640,0)"><path d="M12 12l31 18v34L12 46V12zm38 22l31-18v34L50 68V34z" fill="#7C3AED"/><text x="46" y="112" fill="#CBD5E1" font-size="15">IAC</text></g>
+    <g transform="translate(780,0)"><path d="M44 14c21 24 26 43 14 58-9 12-30 13-41 0C4 56 14 35 44 14z" fill="#F97316"/><circle cx="43" cy="58" r="15" fill="#111827"/><text x="42" y="112" fill="#CBD5E1" font-size="15">MONITORING</text></g>
+    <g transform="translate(942,0)"><path d="M12 70l31-58 31 58H12z" stroke="#22D3EE" stroke-width="5"/><rect x="35" y="42" width="16" height="22" rx="3" fill="#22D3EE"/><text x="42" y="112" fill="#CBD5E1" font-size="15">SECURITY</text></g>
+  </g>
+
+  <g transform="translate(1010 112)">
+    <path d="M150 38c42 0 78 26 92 62 53 3 94 47 94 100 0 56-45 101-101 101H92C41 301 0 260 0 209c0-42 29-79 69-89 8-47 43-82 81-82z" fill="#0B1220" stroke="url(#accent)" stroke-width="4" opacity="0.96"/>
+    <g transform="translate(138 124)">
+      <polygon points="76,0 142,38 142,114 76,152 10,114 10,38" fill="#1E40AF" stroke="#22D3EE" stroke-width="4" filter="url(#softGlow)"/>
+      <circle cx="76" cy="76" r="32" stroke="#F8FAFC" stroke-width="7"/>
+      <path d="M76 31v90M31 76h90M45 45l62 62M107 45l-62 62" stroke="#F8FAFC" stroke-width="5"/>
+    </g>
+    <g transform="translate(32 224)"><rect x="0" y="0" width="132" height="72" rx="14" fill="#08111F" stroke="#38BDF8" stroke-width="3"/><text x="20" y="34" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="20" font-weight="700">SLO</text><text x="20" y="58" fill="#38BDF8" font-family="Inter,Segoe UI,Arial" font-size="18">99.9%</text></g>
+    <g transform="translate(306 218)"><path d="M62 0l62 32v78c0 45-27 74-62 90-35-16-62-45-62-90V32L62 0z" fill="#111827" stroke="#A855F7" stroke-width="4"/><path d="M42 89h40v46H42z" fill="#A855F7"/><circle cx="62" cy="90" r="19" stroke="#A855F7" stroke-width="9"/></g>
+  </g>
+
+  <g transform="translate(1254 118)">
+    <rect x="0" y="0" width="270" height="164" rx="18" fill="#07111F" stroke="#1E40AF" stroke-width="2.5" opacity="0.88"/>
+    <text x="20" y="36" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial" font-size="21" font-weight="700">Observability</text>
+    <path d="M22 92 C48 48, 74 134, 98 86 S152 54, 174 99 S222 118, 244 64" stroke="#22D3EE" stroke-width="4" fill="none"/>
+    <path d="M22 120 C58 90, 86 144, 122 110 S184 94, 246 132" stroke="#A855F7" stroke-width="3" fill="none" opacity="0.9"/>
+    <circle cx="220" cy="66" r="36" stroke="#38BDF8" stroke-width="9" opacity="0.45"/>
+    <path d="M220 30a36 36 0 0 1 31 55" stroke="#A855F7" stroke-width="9" fill="none"/>
+  </g>
+</svg>
