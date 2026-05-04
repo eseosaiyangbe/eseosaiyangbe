@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.svg" alt="Eseosa Raymond Iyangbe GitHub profile banner" width="100%" />
+  <img src="./assets/github-banner.png" alt="Eseosa Raymond Iyangbe GitHub profile banner" width="100%" />
 </p>
 
 # Eseosa Raymond Iyangbe
