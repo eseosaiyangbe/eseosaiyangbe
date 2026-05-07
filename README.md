@@ -140,7 +140,7 @@ Repository: [MemFlip](https://github.com/eseosaiyangbe/MemFlip)
 
 | Area | Tools and Concepts |
 |---|---|
-| Platform Runtime | Docker, Colima, `k3s`, Traefik |
+| Platform Runtime | Linux, Docker, Colima, `k3s`, Traefik |
 | Kubernetes | Deployments, StatefulSets, Services, Ingress, Kustomize, HPAs, PDBs |
 | GitOps Direction | ArgoCD application structure, root orchestration patterns |
 | Observability | Prometheus, Grafana, Alertmanager, Loki, Promtail, cAdvisor, node-exporter, blackbox-exporter |
@@ -170,5 +170,7 @@ I care about systems that are:
 ## Contact
 
 - GitHub: [github.com/eseosaiyangbe](https://github.com/eseosaiyangbe)
+- LinkedIn: [linkedin.com/in/eseosaiyangbe](https://ca.linkedin.com/in/eseosaiyangbe)
+- Portfolio: [portfolio.eseosadevbox.com](https://portfolio.eseosadevbox.com)
 
 <!-- profile-readme-render-refresh: 2026-05-07T13:35:00Z -->
